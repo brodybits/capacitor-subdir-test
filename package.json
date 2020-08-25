@@ -9,5 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "@capacitor/cli": "^2.4.0",
+    "@capacitor/core": "^2.4.0"
+  }
 }
